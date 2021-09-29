@@ -1,3 +1,4 @@
 #welcome to railway reservation.
 1.login page
 2.select the name of the customer.
+3. cancel ticket
